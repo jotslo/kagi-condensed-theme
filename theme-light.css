@@ -53,8 +53,8 @@ body, html { line-height: 1.3; }
 /* Mobile */
 ._0_app-data-top-panel { display: none; }
 .m-h .m-h-i { height: 64px; }
-:root { --m_sri_gap_color: #f0f0f0 !important; }
 @media (max-width: 33em ) {
+    :root { --m_sri_gap_color: #f0f0f0 !important; }
     .kagibara_box { margin-bottom: 24px !important; }
     .logo { display: none; }
     .search-form .search-input-container {
