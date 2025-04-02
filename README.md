@@ -21,7 +21,7 @@ A CSS theme that improves spacing &amp; UI in Kagi.
 - News
     - Improvements to UI positioning
     - Spacing reduced
-Podcasts
+- Podcasts
     - Improvements to UI positioning
     - Spacing reduced
 - Mobile
