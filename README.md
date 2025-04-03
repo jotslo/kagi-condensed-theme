@@ -10,11 +10,7 @@ A CSS theme that improves spacing &amp; UI in Kagi.
 - Search
     - Links are now coloured
     - Link underlines are removed
-    - Removes from main results:
-        - Blast from the Past
-        - Interesting Finds
-        - Quick Peek
-        - Videos
+    - Removes 'Blast from the Past'
 - Home page
     - Big search button is removed
     - UI positioning is improved
