@@ -12,6 +12,10 @@
 }
 
 
+/* Hide "Blast from the Past" */
+#web_archive { display: none; }
+
+
 /* Condense spacing */
 :root { --search-result-gap: 24px; }
 .__sri-title { margin-bottom: 0px; }
