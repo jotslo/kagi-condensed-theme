@@ -7,6 +7,7 @@ A simple CSS theme that reduces spacing in Kagi, allowing more results to be see
 - A clean, condensed experience across all devices and themes
 - Reduced spacing on most pages
 - Some UI positioning changes
+- Supports both light & dark mode
 
 ## Condensed vs Normal
 ![Comparison of results](/assets/results_compared.png)
