@@ -1,12 +1,12 @@
 # kagi-condensed-theme
-A CSS theme that improves spacing &amp; UI in Kagi, allowing more results to be seen at once.
+A simple CSS theme that reduces spacing in Kagi, allowing more results to be seen at once.
 
 ![Example results with Kagi Condensed theme](/assets/results.png)
 
 ## Features
 - A clean, condensed experience across all devices and themes
 - Reduced spacing on most pages
-- UI layout improvements
+- Some UI positioning changes
 
 ## Condensed vs Normal
 ![Comparison of results](/assets/results_compared.png)
